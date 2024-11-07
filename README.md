@@ -195,8 +195,7 @@ Dengan mengikuti proses ini, aplikasi Ionic dapat melakukan autentikasi user den
 # Hasil Aplikasi
 ## 1. Halaman Login
 ### Gagal
-<img src="login-false.png" alt="Screenshot Gagal Login" width="300"/>
-<img src="login-false(1).png" alt="Screenshot Pop Up Gagal" width="300"/>
+<img src="login-false.png" alt="Screenshot Gagal Login" width="300"/> <img src="login-false(1).png" alt="Screenshot Pop Up Gagal" width="300"/>
 
 ### Berhasil
 <img src="login-true.png" alt="Screenshot Berhasil Login" width="300"/>
