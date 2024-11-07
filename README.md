@@ -1,7 +1,7 @@
-### Nama       : Athifa Nathania  
-### NIM        : H1D022031  
-### Shift Baru : F
-### Shift Lama : D
+#### Nama       : Athifa Nathania  
+#### NIM        : H1D022031  
+#### Shift Baru : F
+#### Shift Lama : D
 
 # Tugas 7 - Cara Kerja Login Aplikasi Ionic
 
