@@ -1,0 +1,22 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Home App
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Home App</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-item (click)="logout()">
+    <ion-icon slot="start" ios="exit-outline" md="exit-sharp"></ion-icon>
+    <ion-label>Logout</ion-label>
+  </ion-item>
+  <hr>
+  Selamat datang {{ nama }}
+</ion-content>
