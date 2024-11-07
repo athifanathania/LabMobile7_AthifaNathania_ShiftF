@@ -3,6 +3,7 @@
 #### Shift Baru : F
 #### Shift Lama : D
 
+---
 # Tugas 7 - Cara Kerja Login Aplikasi Ionic
 
 ## 1. Pembuatan Data User di Database
